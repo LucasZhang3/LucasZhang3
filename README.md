@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m an aspiring cybersecurity major who loves coding, gaming, and exploring how technology works!<br><br>  I'm based in Arizona<br>  See my portfolio at My Website<br>  You can contact me at Lucaszhang1118@gmail.com<br>  I'm currently working on an Arduino Autonomous Turret<br>  I'm learning YOLO, Pytorch, OpenCV, SQL, C++<br>  I'm open to collaborating on any projects that I can learn from!
+I’m an aspiring cybersecurity major who loves coding, gaming, and exploring how technology works!
+
+*   I'm based in Arizona
+*   See my portfolio at [My Website](http://https://llhz-portfolio.netlify.app/)
+*   You can contact me at [Lucaszhang1118@gmail.com](mailto:Lucaszhang1118@gmail.com)
+*   I'm currently working on an Arduino Autonomous Turret
+*   I'm learning YOLO, Pytorch, OpenCV, SQL, C++
+*   I'm open to collaborating on any projects that I can learn from!
+
 
 
 # 💻 Tech Stack:
