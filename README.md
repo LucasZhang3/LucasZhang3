@@ -6,7 +6,7 @@ I’m an aspiring cybersecurity major who loves coding, gaming, and exploring ho
 *   You can contact me at [Lucaszhang1118@gmail.com](mailto:Lucaszhang1118@gmail.com) 
 *   I'm currently working on an Arduino Autonomous Turret 
 *   I'm learning YOLO, Pytorch, OpenCV, SQL, C++
-*   I'm open to collaborating on any projects that I can learn from! 
+*   I'm open to collaborating on any projects that I can learn from!
 
 
  
