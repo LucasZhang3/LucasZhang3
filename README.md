@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m an aspiring cybersecurity major who loves coding, gaming, and exploring how technology works!
-
+ 
 *   I'm based in Arizona
 *   See my portfolio at [My Website](https://llhz-portfolio.netlify.app/)
 *   You can contact me at [Lucaszhang1118@gmail.com](mailto:Lucaszhang1118@gmail.com) 
