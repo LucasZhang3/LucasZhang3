@@ -7,7 +7,7 @@ I’m an aspiring cybersecurity major who loves coding, gaming, and exploring ho
 *   I'm currently working on an Arduino Autonomous Turret 
 *   I'm learning YOLO, Pytorch, OpenCV, SQL, C++
 *   I'm open to collaborating on any projects that I can learn from!
-
+ 
 
  
 # 💻 Tech Stack:
