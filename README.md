@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=50&amp;lines=Competitive+Programming+%7C+Low+Level+Programming+%7C+Embedded+Systems" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=50&amp;lines=Competitive+Programming+%7C+Low+Level+Programming+%7C+SWE" alt="Typing animation" />
 
 <br />
 
@@ -25,14 +25,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e40af,100:0891b2&amp;height=140&amp;section=header&amp;text=What%20I%20Build&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-![C++ Projects](https://img.shields.io/badge/C++-Projects-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -80,7 +72,34 @@ Windows x64 manual DLL mapper with an ImGui GUI, CLI, loader shellcode, and a re
 
 <br /><br />
 
-**04 · [USACO](https://github.com/LucasZhang3/USACO)**
+**04 · [AZSEF-Water-Analysis](https://github.com/LucasZhang3/AZSEF-Water-Analysis)**
+
+![Science Fair](https://img.shields.io/badge/AzSEF-Science%20Fair-14b8a6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+<br />
+
+AzSEF project combining FAAS lab data, Python GP models, and a React map app to predict dissolved metal concentrations across Phoenix.
+
+<br /><br />
+
+**05 · [AstroBeeQuest](https://github.com/LucasZhang3/AstroBeeQuest)**
+
+![D and D Quiz](https://img.shields.io/badge/D%26D-Archetype%20Quiz-ec4899?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<br />
+
+Immersive player-type quiz where freeform story responses are scored across eight archetypes with a deterministic engine and cinematic UI.
+
+</td>
+<td width="50%" valign="top">
+
+**06 · [USACO](https://github.com/LucasZhang3/USACO)**
 
 ![USACO](https://img.shields.io/badge/USACO-2026%20Second-a855f7?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -89,10 +108,9 @@ Windows x64 manual DLL mapper with an ImGui GUI, CLI, loader shellcode, and a re
 
 Complete C++ solutions to the USACO 2026 Second Contest.
 
-</td>
-<td width="50%" valign="top">
+<br /><br />
 
-**05 · [Codeforces](https://github.com/LucasZhang3/Codeforces)**
+**07 · [Codeforces](https://github.com/LucasZhang3/Codeforces)**
 
 ![Competitive Programming](https://img.shields.io/badge/Competitive-Programming-ef4444?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -103,7 +121,20 @@ A growing archive of C++ solutions for Codeforces problems.
 
 <br /><br />
 
-**06 · [CS-SC](https://github.com/LucasZhang3/CS-SC)**
+**08 · [Arch-Linux-Webpage](https://github.com/LucasZhang3/Arch-Linux-Webpage)**
+
+![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<br />
+
+Modern React and Tailwind site showcasing Arch Linux with download pages, a learn-more section, and an animated landing experience.
+
+<br /><br />
+
+**09 · [CS-SC](https://github.com/LucasZhang3/CS-SC)**
 
 ![Counter-Strike 2](https://img.shields.io/badge/Counter--Strike%202-Mod-f59e0b?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -116,7 +147,7 @@ Skin, knife, and glove changer with DXGI hooks, an ImGui menu, and JSON config p
 
 <br /><br />
 
-**07 · [DL-ESP](https://github.com/LucasZhang3/DL-ESP)**
+**10 · [DL-ESP](https://github.com/LucasZhang3/DL-ESP)**
 
 ![Deadlock](https://img.shields.io/badge/Deadlock-Overlay-64748b?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -134,88 +165,7 @@ ESP overlay DLL with player visuals, skeletons, footsteps, and an in-game menu.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0891b2,100:6366f1&amp;height=50&amp;section=footer&amp;fontSize=20&amp;fontColor=ffffff&amp;text=Web%20and%20Apps&amp;animation=blinking" width="100%" />
-
-</div>
-
-<br />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**08 · [AZSEF-Water-Analysis](https://github.com/LucasZhang3/AZSEF-Water-Analysis)**
-
-![Science Fair](https://img.shields.io/badge/AzSEF-Science%20Fair-14b8a6?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-<br />
-
-AzSEF project combining FAAS lab data, Python GP models, and a React map app to predict dissolved metal concentrations across Phoenix.
-
-<br /><br />
-
-**09 · [AstroBeeQuest](https://github.com/LucasZhang3/AstroBeeQuest)**
-
-![D and D Quiz](https://img.shields.io/badge/D%26D-Archetype%20Quiz-ec4899?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-<br />
-
-Immersive player-type quiz where freeform story responses are scored across eight archetypes with a deterministic engine and cinematic UI.
-
-</td>
-<td width="50%" valign="top">
-
-**10 · [Arch-Linux-Webpage](https://github.com/LucasZhang3/Arch-Linux-Webpage)**
-
-![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-<br />
-
-Modern React and Tailwind site showcasing Arch Linux with download pages, a learn-more section, and an animated landing experience.
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:6366f1,100:0891b2&amp;height=50&amp;section=footer&amp;fontSize=20&amp;fontColor=ffffff&amp;text=GitHub%20Activity&amp;animation=fadeIn" width="100%" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasZhang3&amp;theme=tokyonight&amp;border=1e293b&amp;background=0f172a&amp;ring=6366f1&amp;fire=0891b2&amp;currStreakLabel=38bdf8" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=LucasZhang3&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=1e293b&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;icon_color=6366f1&amp;hide_border=false" width="48%" />
-
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasZhang3&amp;layout=compact&amp;theme=tokyonight&amp;border_color=1e293b&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;icon_color=6366f1&amp;hide_border=false" width="60%" />
-
-<br /><br />
-
-![Profile Views](https://komarev.com/ghpvc/?username=LucasZhang3&amp;color=0891b2&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
-
-</div>
-
-<br />
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:0891b2&amp;height=80&amp;section=footer&amp;fontSize=18&amp;fontColor=ffffff&amp;text=Thanks%20for%20stopping%20by!" width="100%" />
-
-<br />
-
-<i>Explore a repo, open an issue, or reach out if something catches your eye.</i>
 
 </div>
 
