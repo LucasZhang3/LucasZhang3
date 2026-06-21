@@ -6,15 +6,20 @@
 
 <br />
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=50&amp;lines=Competitive+Programming+%7C+Low+Level+Programming+%7C+Embedded+Systems" alt="Typing animation" />
+
+<br />
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-LLHZ-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://llhz-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Lucaszhang1118@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lucaszhang1118@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-LucasZhang3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasZhang3)
 
 </div>
 
 <br />
 
 <details>
-<summary><b>⚡ More about my coding life</b></summary>
+<summary><b>More about my coding life</b></summary>
 <br />
 
 <div align="center">
@@ -23,6 +28,7 @@
 
 </div>
 
+<br />
 
 <div align="center">
 
@@ -184,7 +190,32 @@ Modern React and Tailwind site showcasing Arch Linux with download pages, a lear
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:6366f1,100:0891b2&amp;height=50&amp;section=footer&amp;fontSize=20&amp;fontColor=ffffff&amp;text=GitHub%20Activity&amp;animation=fadeIn" width="100%" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasZhang3&amp;theme=tokyonight&amp;border=1e293b&amp;background=0f172a&amp;ring=6366f1&amp;fire=0891b2&amp;currStreakLabel=38bdf8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=LucasZhang3&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=1e293b&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;icon_color=6366f1&amp;hide_border=false" width="48%" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasZhang3&amp;layout=compact&amp;theme=tokyonight&amp;border_color=1e293b&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;icon_color=6366f1&amp;hide_border=false" width="60%" />
+
+<br /><br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=LucasZhang3&amp;color=0891b2&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
+
+</div>
+
+<br />
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:0891b2&amp;height=80&amp;section=footer&amp;fontSize=18&amp;fontColor=ffffff&amp;text=Thanks%20for%20stopping%20by!" width="100%" />
+
+<br />
+
+<i>Explore a repo, open an issue, or reach out if something catches your eye.</i>
 
 </div>
 
